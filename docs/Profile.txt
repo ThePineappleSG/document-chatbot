@@ -1,0 +1,34 @@
+Company Info:
+Danny's Steakhouse is a renowned fine dining establishment that has been serving up delectable steaks and exceptional cuisine for over three decades. Established in 1990 by Danny Michaels, a passionate culinary enthusiast, this restaurant has consistently garnered acclaim for its commitment to delivering an unparalleled dining experience. Danny's Steakhouse prides itself on a combination of top-notch ingredients, skilled chefs, and impeccable service that keeps patrons returning for more.
+
+Venues and Addresses:
+Danny's Steakhouse boasts multiple locations across the United States, each designed to provide a distinctive and inviting atmosphere. Here are the addresses of the three flagship locations:
+
+a. Danny's Steakhouse - Downtown
+Address: 123 Main Street
+City: Metropolis
+State: California
+ZIP Code: 12345
+Opening hours: 11am - 11pm
+b. Danny's Steakhouse - Uptown
+Address: 456 Oak Avenue
+City: Uptown
+State: New York
+ZIP Code: 67890
+Opening hours: 9am - 7pm
+c. Danny's Steakhouse - Riverfront
+Address: 789 Waterfront Drive
+City: River City
+State: Texas
+ZIP Code: 54321
+Opening hours: 8am - 12am
+
+Delivery Options:
+GrabFood - Delivery via Grab App
+FoodPanda - Delivery via Foodpanda App
+
+Awards:
+2019: Michelin 3 Star
+2020: America's Top 10 Steakhouses
+2021: Awards of Excellence: DéLICIAE Bar of the Year (Finalist)
+2022: World Gourmet Awards: Restaurant Design of the Year (Winner)
